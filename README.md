@@ -1,5 +1,4 @@
 LINE 3
-
 Syntax error,  using single quote after initializing with double. 
 Found error in console pointing to incorrect line. 
 
